@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![image](https://github.com/PavithraD23004871/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138955967/a25b8095-e433-4c7c-85d0-912ebc823637)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
